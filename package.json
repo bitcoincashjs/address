@@ -114,7 +114,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "bitcoincashjs": "^0.1.3",
+    "bitcoincashjs": "^0.1.7",
     "bootstrap": "^4.0.0-beta.3",
     "copy-to-clipboard": "^3.0.8",
     "gh-pages": "^1.1.0",

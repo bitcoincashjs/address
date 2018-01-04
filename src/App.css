@@ -6,6 +6,16 @@
   font-size: 2.5rem;
 }
 
+.question svg {
+  width: 30px;
+  margin-bottom: 20px;
+  cursor: help;
+}
+
+#question-modal {
+  padding-top: 50px;
+}
+
 .address-input {
   margin-bottom: 10px;
 }
@@ -14,6 +24,19 @@
   font-size: 12px;
 }
 
-.network-input {
-  width: 20px;
+.invalid-address {
+  float: right;
+  color: rgb(255, 104, 98);
+}
+
+.legacy-output span {
+  color:#444;
+}
+
+.cashaddr-output span {
+  color: orange;
+}
+
+.bitpay-output span {
+  color: blue;
 }
