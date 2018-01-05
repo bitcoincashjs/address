@@ -175,7 +175,7 @@ class App extends Component {
                 <div className="Title">
                   <div className="jumbotron jumbotron-fluid">
                     <div className="container">
-                      <h1 className="display-3">Bitcoin&#8203;<span>Cash</span>.js</h1>
+                      <h1 className="display-3">Bitcoin<wbr />&#8203;<span>Cash</span>.js</h1>
                       <h2 className="display-4">Address Translator <span className="question" data-toggle="modal" data-target="#question-modal"><FaQuestionCircle /></span></h2>
                     </div>
                   </div>
