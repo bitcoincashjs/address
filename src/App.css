@@ -1,3 +1,7 @@
+.Title .jumbotron {
+  padding: 3rem 2rem;
+}
+
 .Title .jumbotron h1 {
   font-size: 4.5rem;
 }
@@ -48,4 +52,8 @@
 
 .bitpay-output span {
   color: blue;
+}
+
+.Translator {
+  margin-bottom: 50px;
 }
