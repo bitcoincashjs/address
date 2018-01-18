@@ -188,7 +188,7 @@ function Translator(props) {
               <div className="input-group-prepend">
                 <span className="input-group-text">Address</span>
               </div>
-              <input value={addressInputValue} onChange={onAddressInputChange} type="text" className="form-control" id="address" />
+              <input value={addressInputValue} onChange={onAddressInputChange} type="text" className="form-control" id="address" placeholder="Enter a Bitcoin Cash address ..."/>
             </div>
           </div>
           <form className="form-inline">
